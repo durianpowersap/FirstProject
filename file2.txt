@@ -1,1 +1,3 @@
 content of file 2.
+
+tambahan line baru setelah push pertama kali ke GitHub repository.

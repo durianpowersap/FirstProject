@@ -1,0 +1,9 @@
+---
+name: 'hello-world'
+'on': 'push'
+jobs:
+  my-job: null
+  runs-on: 'ubuntu-latest'
+  steps: null
+  '-name': 'my-step'
+  run: 'echo "Hello Konoha"'
